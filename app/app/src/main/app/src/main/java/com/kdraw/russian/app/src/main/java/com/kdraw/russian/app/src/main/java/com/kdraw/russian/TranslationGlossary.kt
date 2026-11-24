@@ -1,0 +1,41 @@
+
+package com.kdraw.russian
+
+object TranslationGlossary {
+    val entries = linkedMapOf(
+        "Note" to "Заметки",
+        "Teach" to "Обучение",
+        "Grid" to "Сетка",
+        "Picture" to "Изображение",
+        "Tools" to "Инструменты",
+        "Machine" to "Станок",
+        "Fonts" to "Шрифты",
+        "Settings" to "Настройки",
+        "SUGGEST" to "Предложения",
+        "ABOUT" to "О приложении",
+        "Machine settings" to "Настройки станка",
+        "Choose pen controller" to "Выбор контроллера пера",
+        "Pen up/down position" to "Положение пера вверху/внизу",
+        "Pen move speed" to "Скорость перемещения пера",
+        "Coordinate system" to "Система координат",
+        "Reverse X" to "Инвертировать X",
+        "Reverse Y" to "Инвертировать Y",
+        "Swap XY" to "Поменять X и Y местами",
+        "Lock axes" to "Заблокировать оси",
+        "Chars settings" to "Настройки символов",
+        "Baseline" to "Базовая линия",
+        "Font distortion" to "Искажение шрифта",
+        "Path distortion" to "Искажение траектории",
+        "Create font" to "Создать шрифт",
+        "Font name" to "Название шрифта",
+        "Author" to "Автор",
+        "Describe" to "Описание",
+        "Edit password" to "Пароль для редактирования",
+        "Cancel" to "Отмена",
+        "OK" to "ОК",
+        "Save" to "Сохранить",
+        "Delete" to "Удалить",
+        "Back" to "Назад",
+        "Next" to "Далее"
+    )
+}
